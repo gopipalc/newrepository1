@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            This is gopi's application
+            This is gopi's application; and tried synching
         </div>
     </form>
 </body>
